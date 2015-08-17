@@ -28,3 +28,11 @@ $fa-font-path: "../bower_components/font-awesome/fonts";
 @import 'main/main.scss';
 @import '../components/footer/footer.scss';
 // endinjector
+
+.name.header-logo{
+	list-style-type: none;
+}
+
+.tab-bar-section ul li{
+	list-style-type: none;
+}
